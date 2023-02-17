@@ -511,7 +511,7 @@ double timerInterval = 5.0f;
     }
     else{
         UIAlertController * alert = [UIAlertController alertControllerWithTitle : @"Alert"
-                                                                           message : @"Please wait for 5 seconds of intervel of time!"
+                                                                           message : @"Please wait for 5 seconds of interval of time!"
                                                                     preferredStyle : UIAlertControllerStyleAlert];
 
            UIAlertAction * ok = [UIAlertAction
